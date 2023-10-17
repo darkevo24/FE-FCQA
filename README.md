@@ -59,5 +59,3 @@ To learn about React itself, explore the [React documentation](https://reactjs.o
 
 Now you're all set to run, test, and develop your React project.
 ```
-
-This updated README includes a project description, prerequisites, installation instructions, and explanations of the available npm scripts. It also provides links to relevant documentation. Make sure to replace placeholders like `yourusername` and `your-react-project` with the actual values for your project.
